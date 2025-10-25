@@ -70,16 +70,8 @@ answer = complete_analogy('italy', 'italian', 'spain', word_to_vec_map)
 
 - [GloVe Vectors](https://nlp.stanford.edu/projects/glove/)
 - [Kaggle Dataset](https://www.kaggle.com/datasets/watts2/glove6b50dtxt)
-- [Documentation complète](docs/rapport.pdf)
 
 ## 👤 Auteur
 
 **Hiba Amenhar** - [@hibaamenhar](https://github.com/hibaamenhar)
 
-## 📄 Licence
-
-MIT License
-
----
-
-⭐ **N'hésitez pas à donner une étoile si ce projet vous est utile !**
